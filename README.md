@@ -1,4 +1,3 @@
-# Project-UAS
 ## Profil
 | Variable | Isi |
 | -------- | --- |
@@ -7,6 +6,7 @@
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Bahasa Pemrograman |
 
+# Project-UAS
 ```python
 print("=" * 50 + "\nSelamat Datang Di Kantin Universitas Pelita Bangsa \n" + "=" * 50)
 
@@ -172,8 +172,10 @@ Tentu, mari kita bahas bagian ini dari program:
         print("Pilihan tidak ada di menu. Silakan masukkan ulang.")
 ```
 * Jika pengguna memasukkan pilihan yang tidak valid, program memberikan pesan bahwa pilihan tidak ada di menu dan meminta pengguna untuk memasukkan ulang.
+> DOKUMENTASI PROJECT UAS : https://youtu.be/fsDD16hXgJA
 
-## Gambar Output
+# Gambar Output
 <p align="center">
 * <img src="Gambar/1.png">
 </p>
+
