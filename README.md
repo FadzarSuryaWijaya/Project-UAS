@@ -173,4 +173,7 @@ Tentu, mari kita bahas bagian ini dari program:
 ```
 * Jika pengguna memasukkan pilihan yang tidak valid, program memberikan pesan bahwa pilihan tidak ada di menu dan meminta pengguna untuk memasukkan ulang.
 
-
+## Gambar Output
+<p align="center">
+* <img src="gambar/1.png">
+</p>
