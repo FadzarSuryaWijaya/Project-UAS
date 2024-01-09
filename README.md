@@ -175,5 +175,5 @@ Tentu, mari kita bahas bagian ini dari program:
 
 ## Gambar Output
 <p align="center">
-* <img src="gambar/1.png">
+<img src="gambar/1.png">
 </p>
